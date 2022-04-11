@@ -1,9 +1,9 @@
 body{
-    background-image: url('../images/img.jpeg');
+    background-color: black;
     
     
 }
-title{
+h1{
   
   font-family: Arial;
   font-weight: bold;
