@@ -1,9 +1,9 @@
 body{
-    background-color: black;
+    background-color: url('../images/img.jpeg');
     
     
 }
-head{
+title{
   padding: 1.5rem;
   font-family: Arial;
   font-weight: bold;
