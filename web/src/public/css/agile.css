@@ -45,3 +45,21 @@ p{
     border: 0.5rem none;
 }
 
+button {
+  transition-duration: 0.4s;
+  width: 70%;
+  border-radius: 50%;
+  margin: 2rem;
+  padding: 2rem;
+  font-size: 20px;
+  font-family: Arial;
+  
+}
+
+button:hover {
+  background-color: lightblue; /* Green */
+  color: white;
+  font-size: 30px;
+  font-family: Arial;
+}
+
